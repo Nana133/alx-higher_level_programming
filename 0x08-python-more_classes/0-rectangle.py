@@ -2,6 +2,7 @@
 
 '''empty class for rectangle'''
 
+
 class Rectangle:
     '''forgot this useless comment'''
     pass
