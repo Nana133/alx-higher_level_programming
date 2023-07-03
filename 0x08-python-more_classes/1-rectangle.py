@@ -2,6 +2,7 @@
 
 '''module for shapes'''
 
+
 class Rectangle:
     '''class for rectangle'''
 
